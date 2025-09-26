@@ -50,4 +50,34 @@ The analysis was conducted in Python (pandas, seaborn, matplotlib) with a focus 
 
 ---
 
-## 📂 Project Structure
+## 📈 Key Visuals
+
+### Churn Rate by Contract Type
+![Contract Churn](images/contract_churn.png)  
+
+### Churn Rate by Payment Method
+![Payment Method Churn](images/payment_churn.png)  
+
+### Churn Rate by Tech Support
+![Tech Support Churn](images/techsupport_churn.png)  
+
+### Tenure Distribution by Churn
+![Tenure vs Churn](images/tenure_churn.png)  
+
+---
+
+## 📥 Dataset
+Dataset source: [Telco Customer Churn (Kaggle)](https://www.kaggle.com/blastchar/telco-customer-churn)  
+
+---
+
+## 📌 Next Steps
+- Extend the project with an interactive **Tableau/Power BI dashboard**.  
+- Automate churn KPI reporting using Python.  
+- Explore simple predictive modeling as a comparison (optional).  
+
+---
+
+## 👩‍💻 Author
+*Your Name*  
+Aspiring Data Analyst | Skilled in SQL, Python, Tableau  

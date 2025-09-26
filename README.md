@@ -75,9 +75,3 @@ Dataset source: [Telco Customer Churn (Kaggle)](https://www.kaggle.com/blastchar
 - Extend the project with an interactive **Tableau/Power BI dashboard**.  
 - Automate churn KPI reporting using Python.  
 - Explore simple predictive modeling as a comparison (optional).  
-
----
-
-## 👩‍💻 Author
-*Your Name*  
-Aspiring Data Analyst | Skilled in SQL, Python, Tableau  

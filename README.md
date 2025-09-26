@@ -66,6 +66,43 @@ The analysis was conducted in Python (pandas, seaborn, matplotlib) with a focus 
 
 ---
 
+📊 Excel Churn Analysis Summary
+
+Using Excel pivot tables and cohort analysis, I quantified the revenue impact of customer churn in the Telco dataset:
+
+Overall churn rate: 26.6% (≈1 in 4 customers leave).
+
+Tenure effect:
+
+Customers within their first 12 months had the highest churn (≈48.5%).
+
+Retention improves dramatically with tenure — beyond 48 months, only ≈9% churn.
+
+Revenue at risk:
+
+Churned customers generate higher average monthly charges ($74 vs $61 for retained customers).
+
+Total monthly revenue lost to churn: ≈$139,000.
+
+Lifetime value (LTV):
+
+Retained customers: ≈$2,555 average lifetime revenue.
+
+Churned customers: ≈$1,582, reflecting lost long-term value.
+
+What-if scenario:
+
+A 5% reduction in churn would recover ≈$7,000 in monthly revenue.
+
+🧾 Key Takeaways
+
+Early-life retention is critical: Most losses occur within the first year of tenure.
+
+High-spend customers churn disproportionately, magnifying revenue risk.
+
+Retention campaigns have measurable ROI: Even modest churn reduction translates directly into substantial revenue recovery.
+---
+
 ## 📥 Dataset
 Dataset source: [Telco Customer Churn (Kaggle)](https://www.kaggle.com/blastchar/telco-customer-churn)  
 
